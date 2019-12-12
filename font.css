@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Uber Move Text Medium";
+    src: url("./083a4eeb0dc2e130c4d04a1e3190f2ad.eot"); /* IE9*/
+    src: url("./083a4eeb0dc2e130c4d04a1e3190f2ad.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./083a4eeb0dc2e130c4d04a1e3190f2ad.woff2") format("woff2"), /* chrome firefox */
+    url("./083a4eeb0dc2e130c4d04a1e3190f2ad.woff") format("woff"), /* chrome firefox */
+    url("./083a4eeb0dc2e130c4d04a1e3190f2ad.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("./083a4eeb0dc2e130c4d04a1e3190f2ad.svg#Uber Move Text Medium") format("svg"); /* iOS 4.1- */
+}
